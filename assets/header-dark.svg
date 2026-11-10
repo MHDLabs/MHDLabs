@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+  <title id="title">Mahdi | MHDLabs</title>
+  <desc id="desc">A dark terminal-inspired profile banner for Mahdi, featuring Linux, privacy, local AI, and open-source projects.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#26313d" stroke-width="1" opacity=".42"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff914d" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#62d9bb" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="430" rx="22" fill="#0d1117"/>
+  <rect width="1100" height="430" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1098" height="428" rx="21" fill="none" stroke="#303b48" stroke-width="2"/>
+  <circle cx="1030" cy="62" r="110" fill="url(#glow)"/>
+
+  <!-- Terminal window -->
+  <rect x="35" y="48" width="405" height="328" rx="15" fill="#111923" stroke="#354252" stroke-width="2"/>
+  <path d="M35 88H440" stroke="#354252" stroke-width="2"/>
+  <circle cx="61" cy="68" r="6" fill="#ff6b6b"/>
+  <circle cx="83" cy="68" r="6" fill="#f4c15d"/>
+  <circle cx="105" cy="68" r="6" fill="#62d9bb"/>
+  <text x="237" y="73" text-anchor="middle" fill="#8190a3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">MHD / TERMINAL</text>
+  <text x="62" y="123" fill="#ff914d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">$ whoami</text>
+  <text x="62" y="151" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="21">mahdi</text>
+  <text x="62" y="193" fill="#ff914d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">$ uname -s</text>
+  <text x="62" y="221" fill="#62d9bb" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19">Linux</text>
+  <text x="62" y="263" fill="#ff914d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">$ cat interests.txt</text>
+  <text x="62" y="292" fill="#c6d1dc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">privacy · self-hosting · local AI</text>
+  <text x="62" y="338" fill="#62d9bb" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">&gt; <tspan fill="#e6edf3">_</tspan><animate attributeName="opacity" values="1;0;1" dur="1.25s" repeatCount="indefinite"/></text>
+
+  <!-- Identity panel -->
+  <text x="488" y="82" fill="#ff914d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="3">OPEN SOURCE / PERSONAL PROFILE</text>
+  <text x="485" y="151" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="58" font-weight="800">Mahdi</text>
+  <text x="490" y="187" fill="#62d9bb" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22">@MHDLabs</text>
+  <rect x="490" y="213" width="260" height="37" rx="8" fill="#18232e" stroke="#405062"/>
+  <text x="508" y="237" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">Student &amp; builder</text>
+  <text x="490" y="288" fill="#8b9bad" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">FOCUS</text>
+  <text x="595" y="288" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">Linux · Privacy · Open source</text>
+  <text x="490" y="321" fill="#8b9bad" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">BUILD</text>
+  <text x="595" y="321" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">JavaScript · Python · Cloudflare</text>
+  <text x="490" y="354" fill="#8b9bad" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">EXPLORE</text>
+  <text x="595" y="354" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">Local AI · System tools</text>
+
+  <rect x="865" y="48" width="195" height="34" rx="17" fill="#142b27" stroke="#2b6556"/>
+  <circle cx="885" cy="65" r="5" fill="#62d9bb"/>
+  <text x="900" y="70" fill="#9be9d6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">STATUS: BUILDING</text>
+  <path d="M488 390H1060" stroke="#354252" stroke-width="1"/>
+  <text x="490" y="412" fill="#7f8d9d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">Keep it simple. Keep it useful. Keep learning.</text>
+  <text x="1060" y="412" text-anchor="end" fill="#ff914d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">[ MHD ]</text>
+</svg>
