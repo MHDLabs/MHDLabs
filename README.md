@@ -8,13 +8,16 @@
 
 <p align="center">
   <a href="https://github.com/MHDLabs">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-github-dark.svg"><img src="assets/button-github-light.svg" alt="GitHub" width="32%"></picture>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-github-dark.svg"><img src="assets/button-github-light.svg" alt="GitHub" width="24%"></picture>
   </a>
   <a href="https://github.com/MHDLabs?tab=repositories">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-projects-dark.svg"><img src="assets/button-projects-light.svg" alt="Projects" width="32%"></picture>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-projects-dark.svg"><img src="assets/button-projects-light.svg" alt="Projects" width="24%"></picture>
   </a>
-  <a href="https://mhdlabs.github.io/under-the-noise-rain/">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-story-dark.svg"><img src="assets/button-story-light.svg" alt="My story" width="32%"></picture>
+  <a href="https://github.com/MHDLabs/under-the-noise-rain">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-story-dark.svg"><img src="assets/button-story-light.svg" alt="My story — Under the Noise Rain repository" width="24%"></picture>
+  </a>
+  <a href="https://mhdlabs.github.io/MHDLabs/">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-showreel-dark.svg"><img src="assets/button-showreel-light.svg" alt="MHDLabs showreel" width="24%"></picture>
   </a>
 </p>
 
@@ -29,6 +32,16 @@ I learn by making things: small tools, self-hosted services, experiments with AI
 - ☁️ **Building with:** Cloudflare Workers, D1, KV, and Durable Objects
 - 🤖 **Exploring:** Local AI, LLMs, and agent-based workflows
 - 🧪 **Languages I use:** JavaScript and Python
+
+## `./showreel`
+
+A short motion piece introducing the MHDLabs identity, built as a standalone, dependency-free experience.
+
+<p align="center">
+  <a href="https://mhdlabs.github.io/MHDLabs/">
+    <img src="assets/button-showreel-dark.svg" alt="Watch the MHDLabs showreel" width="48%">
+  </a>
+</p>
 
 ## `./selected-projects`
 
